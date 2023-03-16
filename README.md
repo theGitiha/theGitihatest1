@@ -2,13 +2,11 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-<br/><a href="">Data Analytics Project 1 </a>, <a href="https://drive.google.com/file/d/1TV0r2HfMdokyRTpH2TFglwhukhV9QcVa/view?usp=sharing"></a>
-  
-<br/><a href="">SQL Project </a>, <a href="https://drive.google.com/file/d/1IQdI4DPEJxkjGdmIQdYOXp5gsBWWIDsd/view?usp=sharing"></a>
-  
-<br/><a href=""> Tableau Project </a>, <a href="https://drive.google.com/file/d/1M--2Pl5eB9WEFXrGB4aZUoNbg9MzlQ6h/view?usp=sharing"></a>  
+[Data Visualization Project](https://drive.google.com/file/d/1TV0r2HfMdokyRTpH2TFglwhukhV9QcVa/view?usp=sharing)  
 
-[Your Link Here](https://drive.google.com/file/d/1M--2Pl5eB9WEFXrGB4aZUoNbg9MzlQ6h/view?usp=sharing)
+[SQL Project](https://drive.google.com/file/d/1IQdI4DPEJxkjGdmIQdYOXp5gsBWWIDsd/view?usp=sharing)  
+
+[Tableau Project](https://drive.google.com/file/d/1M--2Pl5eB9WEFXrGB4aZUoNbg9MzlQ6h/view?usp=sharing)
 
 
 
