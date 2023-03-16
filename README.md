@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Analytics DashboardPractice (AlgoExpert)</b>
+<br/><a href="">Data Analytics Project 1 </a>, <a href="https://drive.google.com/file/d/1TV0r2HfMdokyRTpH2TFglwhukhV9QcVa/view?usp=sharing">
+  
+<br/><a href="">SQL Project </a>, <a href="https://drive.google.com/file/d/1IQdI4DPEJxkjGdmIQdYOXp5gsBWWIDsd/view?usp=sharing">  
+  
+<br/><a href=""> Tableau Project </a>, <a href="https://drive.google.com/file/d/1M--2Pl5eB9WEFXrGB4aZUoNbg9MzlQ6h/view?usp=sharing">    
 
-- <b>SQL</b>
 
-- <b>Tableau</b>
+
 
 
 <h2> Education & Certifications </h2>
