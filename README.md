@@ -12,9 +12,9 @@
 
 
 
-<h2> Education & Certifications </h2>
+<h2> Relevant Education & Certifications </h2>
 
-Udacity Data Analytics Nanodegree
+Udacity Data Analytics Nanodegree 2023
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
