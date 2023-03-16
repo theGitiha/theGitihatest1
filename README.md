@@ -6,7 +6,7 @@
 
 - <b>SQL</b>
 
-<b>Python</b>
+- <b>Tableau</b>
 
 
 <h2> Education & Certifications </h2>
