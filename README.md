@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mary! <br/><a href="">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analytics Professional</a>,
+<h1>Hi, I'm Mary! <br/><a href="">Programmer</a>, <a href="https://www.linkedin.com/in/marygitiha/">Data Analytics Professional</a>,
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
